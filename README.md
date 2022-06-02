@@ -15,6 +15,6 @@
 3. Android 클라이언트
 - Kotlin
 - MVVM 아키텍쳐 패턴
-Jetpack Navigation, Safe args 를 이용한 Fragment 개발
-Room DB 라이브러리를 이용한 내장 DB활용
-Koin 라이브러리를 통한 의존성 관리
+- Jetpack Navigation, Safe args 를 이용한 Fragment 개발
+- Room DB 라이브러리를 이용한 내장 DB활용
+- Koin 라이브러리를 통한 의존성 관리
